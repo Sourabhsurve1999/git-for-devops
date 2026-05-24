@@ -1,1 +1,1 @@
-This is the first file of git
+This is the first file of git, and this is updated for git conflict
