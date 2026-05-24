@@ -1,1 +1,2 @@
-This is the first file of git,and this update for git conflict by branch1
+This is the first file of git,and this update for git conflict by dev team
+
